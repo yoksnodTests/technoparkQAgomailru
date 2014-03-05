@@ -8,7 +8,7 @@ public class CalendarCreator {
 
 	private static final String SEARCH_VIEW_ID = "q";
 	private static final String SEARCH_BTN_CLASS = "go-form__submit";
-	private static final String SEARCH_WORD_CP1251 = "κΰλενδΰπό";
+	private static final String SEARCH_WORD_CP1251 = "ΠΊΠ°Π»ΠµΠ½Π΄Π°Ρ€Ρ";
 
 	private static CalendarCreator creator;
 
